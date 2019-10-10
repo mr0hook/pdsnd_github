@@ -194,9 +194,9 @@ def raw_data(df):
     show_data = input("\n Will you like to see 10 lines of raw data?"
                     "Input (Yes or No): \n")
     while show_data.lower() == 'yes':
-        print(df.iloc[i:i + 5])
-        i += 5
-        show_data = input("Will you like to see 5 more lines of raw data?"
+        print(df.iloc[i:i + 10])
+        i += 10
+        show_data = input("Will you like to see 10 more lines of raw data?"
                     "(Yes or No): \n")
         print('-'*40)
     

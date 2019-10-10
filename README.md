@@ -1,15 +1,21 @@
 ### Date created
-Include the date you created this project and README file.
+Thursday, Octobor 10, 2019
+
+### Update 1
+Change Raw data output number from 5 to 10 row
 
 ### Project Title
-Replace the Project Title
+US Bikeshare Invistigate 
 
 ### Description
-Describe what your project is about and what it does
+Give Users Important Analsys to company data
 
 ### Files used
-Include the files used
+bikeshare.py
+chicago.csv
+new_york_city.csv
+washintion.csv
 
 ### Credits
-It's important to give proper credit. Add links to any repo that inspired you or blogposts you consulted.
+
 
