@@ -1,6 +1,8 @@
 ### Date created
 Thursday, Octobor 10, 2019
-
+### Update 1
+Change Input section to insure that accpet any input
+Update bikeshare.py
 ### Project Title
 US BikeShare Invistigate
 
