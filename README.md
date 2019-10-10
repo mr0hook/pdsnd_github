@@ -1,27 +1,23 @@
 ### Date created
 Thursday, Octobor 10, 2019
 
-### Update 2
-Fix Most popular Stiation Calculation
-Modfied File : bikeshare.py
-
 ### Update 1
-Change Input section to insure that accpet any input
-Update bikeshare.py
+Change Raw data output number from 5 to 10 row
+
+### Update 2
+Fix day variable "typo"
 
 ### Project Title
-US BikeShare Invistigate
+US Bikeshare Invistigate 
 
 ### Description
-US Bike Share used to analyst data for bikeshare Company and give
-and give us feedback about Most trip and most crowded stitation 
+Give Users Important Analsys to company data
 
 ### Files used
 bikeshare.py
 chicago.csv
 new_york_city.csv
-washington.csv
-
+washintion.csv
 
 ### Credits
 
